@@ -1,7 +1,5 @@
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:ahmadyudafahrudin@gmail.com)](mailto:ahmadyudafahrudin@gmail.com)
-
-## 🧐 About
+## About Me
 
 - 📫 How to reach me: ahmadyudafahrudin@gmail.com
 - 🔗 Portfolio: [yuda.vercel.app](https://yuda.vercel.app/)
