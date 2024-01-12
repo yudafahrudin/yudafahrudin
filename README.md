@@ -2,7 +2,7 @@
 
 📫 Reach me: ahmadyudafahrudin@gmail.com
 
-🌱 Languages and Tools:
+🌱 Languages:
     <div>
         <span>
             <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" title="nextjs" height="25" />
@@ -24,6 +24,14 @@
         </span>
         <span>
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="25" />
+        </span>
+    </div>
+
+🌱 Tools:
+
+  <div>
+        <span>
+            <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest" height="25" />
         </span>
         <span>
             <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" title="Webpack" height="25" />
