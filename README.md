@@ -1,6 +1,8 @@
-- 📫 Reach me: ahmadyudafahrudin@gmail.com
-- 🔗 Portfolio: [yuda.vercel.app](https://yuda.vercel.app/)
-- 🌱 Languages and Tools:
+🔗 Portfolio: [yuda.vercel.app](https://yuda.vercel.app/)
+
+📫 Reach me: ahmadyudafahrudin@gmail.com
+
+🌱 Languages and Tools:
 
     <div>
         <span>
